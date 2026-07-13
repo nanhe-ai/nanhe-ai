@@ -11,6 +11,8 @@
 
 I build focused AI workflow products for small businesses—systems that reduce repetitive work without hiding decisions behind a black box.
 
+**Start here:** [Explore the flagship AI operations portfolio →](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
+
 ## What I build
 
 - **AI inquiry automation** — qualify inbound leads, structure CRM records, and prepare safe reply drafts.
