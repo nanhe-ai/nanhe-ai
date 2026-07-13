@@ -1,29 +1,30 @@
 <div align="center">
 
-# Northstar Systems
+# Nanhe
 
-### Practical AI automation with evidence, review, and human control.
+### Computer Science PhD Researcher · AI Systems Engineer
 
-[![AI Operations Portfolio](https://img.shields.io/badge/Explore_the_AI_Operations_Portfolio-0b1113?style=for-the-badge&logo=github&logoColor=9fffd3)](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
-[![Application tests](https://github.com/seriousmilenan-star/AI-Freelance-30Day/actions/workflows/ci.yml/badge.svg)](https://github.com/seriousmilenan-star/AI-Freelance-30Day/actions)
+[![AI Operations Portfolio](https://img.shields.io/badge/Explore_the_AI_Operations_Portfolio-0b1113?style=for-the-badge&logo=github&logoColor=9fffd3)](https://github.com/nanhe-ai/AI-Freelance-30Day)
+[![Application tests](https://github.com/nanhe-ai/AI-Freelance-30Day/actions/workflows/ci.yml/badge.svg)](https://github.com/nanhe-ai/AI-Freelance-30Day/actions)
 
 </div>
 
-I build focused AI workflow products for small businesses—systems that reduce repetitive work without hiding decisions behind a black box.
+I am a Computer Science PhD researcher working on reliable, useful AI systems. My interests sit at the intersection of retrieval-augmented generation, document intelligence, knowledge systems, and human-in-the-loop automation.
 
-**Start here:** [Explore the flagship AI operations portfolio →](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
+**Start here:** [Explore my flagship AI engineering portfolio →](https://github.com/nanhe-ai/AI-Freelance-30Day)
 
-## What I build
+## Research and engineering focus
 
-- **AI inquiry automation** — qualify inbound leads, structure CRM records, and prepare safe reply drafts.
-- **Document data extraction** — turn invoices and contracts into reviewable Excel, CSV, and JSON data.
-- **Evidence-first knowledge assistants** — answer from company documents with file, page, and excerpt citations.
+- **Reliable RAG and knowledge systems** — grounded retrieval, source attribution, evaluation, and evidence-aware refusal.
+- **Document intelligence** — extraction and validation pipelines for invoices, contracts, PDFs, and business records.
+- **Human-centered AI automation** — systems that preserve review, control, and accountability around external actions.
+- **Applied AI engineering** — FastAPI services, local-first workflows, model integrations, and production-minded demos.
 
 ## Featured portfolio
 
-[![Northstar AI Operations Portfolio](https://raw.githubusercontent.com/seriousmilenan-star/AI-Freelance-30Day/main/docs/images/portfolio-hub.png)](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
+[![Northstar AI Operations Portfolio](https://raw.githubusercontent.com/nanhe-ai/AI-Freelance-30Day/main/docs/images/portfolio-hub.png)](https://github.com/nanhe-ai/AI-Freelance-30Day)
 
-### [AI-Freelance-30Day](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
+### [Northstar Systems · AI-Freelance-30Day](https://github.com/nanhe-ai/AI-Freelance-30Day)
 
 Three independently runnable, local-first products built as client-ready implementation starters.
 
@@ -53,10 +54,10 @@ Clear handoff before hidden complexity
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0b1113?style=flat-square&logo=openai)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b1113?style=flat-square&logo=javascript)
 
-## Available for implementation work
+## Research collaboration and implementation work
 
-I am interested in practical freelance projects involving sales operations, document processing, internal knowledge systems, and human-reviewed AI automation.
+I am open to research collaboration and selective implementation work involving RAG, document processing, internal knowledge systems, and reviewable AI automation.
 
-[View the code, screenshots, architecture, and demo guide →](https://github.com/seriousmilenan-star/AI-Freelance-30Day)
+[View the code, screenshots, architecture, and demo guide →](https://github.com/nanhe-ai/AI-Freelance-30Day)
 
 For a project conversation, open a GitHub issue with a short, non-confidential description of the workflow you want to improve. Never include credentials, customer records, or private documents in a public issue.
