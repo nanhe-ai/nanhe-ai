@@ -1,63 +1,72 @@
 <div align="center">
 
-# Nanhe
+<img src="./assets/profile-hero.svg" alt="Nanhe — Computer Science PhD Researcher and AI Systems Engineer" width="100%" />
 
-### Computer Science PhD Researcher · AI Systems Engineer
+<br />
 
-[![AI Operations Portfolio](https://img.shields.io/badge/Explore_the_AI_Operations_Portfolio-0b1113?style=for-the-badge&logo=github&logoColor=9fffd3)](https://github.com/nanhe-ai/AI-Freelance-30Day)
-[![Application tests](https://github.com/nanhe-ai/AI-Freelance-30Day/actions/workflows/ci.yml/badge.svg)](https://github.com/nanhe-ai/AI-Freelance-30Day/actions)
+**I build grounded, inspectable AI systems for knowledge, documents, and real-world workflows.**
+
+[![Explore the portfolio](https://img.shields.io/badge/EXPLORE_THE_PORTFOLIO-111827?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/nanhe-ai/AI-Freelance-30Day)
+[![CI status](https://img.shields.io/github/actions/workflow/status/nanhe-ai/AI-Freelance-30Day/ci.yml?style=for-the-badge&label=TESTS&labelColor=111827&color=7c3aed)](https://github.com/nanhe-ai/AI-Freelance-30Day/actions)
 
 </div>
 
-I am a Computer Science PhD researcher working on reliable, useful AI systems. My interests sit at the intersection of retrieval-augmented generation, document intelligence, knowledge systems, and human-in-the-loop automation.
+---
 
-**Start here:** [Explore my flagship AI engineering portfolio →](https://github.com/nanhe-ai/AI-Freelance-30Day)
+## Research thesis
 
-## Research and engineering focus
+> Capable AI is not enough. Production systems should be grounded in evidence, clear about uncertainty, and designed around human judgment.
 
-- **Reliable RAG and knowledge systems** — grounded retrieval, source attribution, evaluation, and evidence-aware refusal.
-- **Document intelligence** — extraction and validation pipelines for invoices, contracts, PDFs, and business records.
-- **Human-centered AI automation** — systems that preserve review, control, and accountability around external actions.
-- **Applied AI engineering** — FastAPI services, local-first workflows, model integrations, and production-minded demos.
+I am a Computer Science PhD researcher working across **retrieval-augmented generation**, **document intelligence**, **knowledge systems**, and **human-in-the-loop automation**. My work connects research ideas with reliable software that people can inspect, evaluate, and use.
 
-## Featured portfolio
+## Current focus
 
-[![Northstar AI Operations Portfolio](https://raw.githubusercontent.com/nanhe-ai/AI-Freelance-30Day/main/docs/images/portfolio-hub.png)](https://github.com/nanhe-ai/AI-Freelance-30Day)
+| Research direction | What I work on |
+|---|---|
+| **Reliable RAG** | Grounded retrieval, citation quality, evaluation, and evidence-aware refusal |
+| **Document intelligence** | Extraction and validation pipelines for invoices, contracts, PDFs, and business records |
+| **Human-centered automation** | Reviewable workflows that preserve control around consequential external actions |
+| **Applied AI engineering** | FastAPI services, local-first systems, model integration, testing, and production-minded demos |
 
-### [Northstar Systems · AI-Freelance-30Day](https://github.com/nanhe-ai/AI-Freelance-30Day)
+## Featured work
 
-Three independently runnable, local-first products built as client-ready implementation starters.
+<a href="https://github.com/nanhe-ai/AI-Freelance-30Day">
+  <img src="https://raw.githubusercontent.com/nanhe-ai/AI-Freelance-30Day/main/docs/images/portfolio-hub.png" alt="Northstar Systems AI Operations Portfolio" width="100%" />
+</a>
 
-| Product | Outcome | Safety and trust |
+### [Northstar Systems · AI Operations Portfolio →](https://github.com/nanhe-ai/AI-Freelance-30Day)
+
+A cohesive portfolio of three independently runnable, local-first AI products. Each project includes an English interface, documented API, tests, sample data, Docker configuration, and a client-facing demo path.
+
+| Product | Workflow | Trust boundary |
 |---|---|---|
 | **InquiryPilot** | Gmail inquiry → qualified lead → Sheets record → Gmail draft | Deduplication, explicit approval, draft-only automation |
-| **ExtractFlow** | PDF, invoice, and contract → structured review queue | Source evidence, confidence, validation, three export formats |
+| **ExtractFlow** | PDF, invoice, or contract → structured review queue | Source evidence, confidence scoring, validation, XLSX/CSV/JSON export |
 | **CiteDesk** | Business documents → grounded multi-turn answers | File/page citations and low-evidence refusal |
 
-## Engineering principles
+## How I build
 
 ```text
-Useful before impressive
-Evidence before confidence
-Human approval before external action
-Local-first when privacy matters
-Clear handoff before hidden complexity
+Evidence before confidence  ·  Human review before external action
+Local-first when privacy matters  ·  Clear handoff before hidden complexity
 ```
 
-## Core stack
+**Languages & systems**<br />
+`Python` · `JavaScript` · `FastAPI` · `SQLite` · `Chroma` · `Docling` · `n8n` · `Docker`
 
-![Python](https://img.shields.io/badge/Python-0b1113?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b1113?style=flat-square&logo=fastapi)
-![n8n](https://img.shields.io/badge/n8n-0b1113?style=flat-square&logo=n8n)
-![Docker](https://img.shields.io/badge/Docker-0b1113?style=flat-square&logo=docker)
-![SQLite](https://img.shields.io/badge/SQLite-0b1113?style=flat-square&logo=sqlite)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0b1113?style=flat-square&logo=openai)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1113?style=flat-square&logo=javascript)
+**AI engineering**<br />
+`RAG` · `Embeddings` · `Information Extraction` · `Evaluation` · `Prompt Engineering` · `OpenAI API`
 
-## Research collaboration and implementation work
+## Collaboration
 
-I am open to research collaboration and selective implementation work involving RAG, document processing, internal knowledge systems, and reviewable AI automation.
+I am open to research collaboration and selective engineering work involving RAG, document processing, internal knowledge systems, and reviewable AI automation.
 
-[View the code, screenshots, architecture, and demo guide →](https://github.com/nanhe-ai/AI-Freelance-30Day)
+**Start with the working systems:** [code](https://github.com/nanhe-ai/AI-Freelance-30Day) · [product previews](https://github.com/nanhe-ai/AI-Freelance-30Day#product-previews) · [architecture](https://github.com/nanhe-ai/AI-Freelance-30Day#architecture) · [demo guide](https://github.com/nanhe-ai/AI-Freelance-30Day#quick-start-on-windows)
 
-For a project conversation, open a GitHub issue with a short, non-confidential description of the workflow you want to improve. Never include credentials, customer records, or private documents in a public issue.
+For a project conversation, open an issue with a short, non-confidential description of the workflow you want to improve. Please never include credentials, customer records, or private documents in a public issue.
+
+<div align="center">
+
+<sub>Reliable AI systems · Designed for evidence, control, and real use</sub>
+
+</div>

@@ -1,0 +1,72 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nanhe — AI Researcher</title>
+  <desc id="desc">A dark academic banner with an abstract neural network and research focus areas.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050814"/>
+      <stop offset="0.55" stop-color="#091329"/>
+      <stop offset="1" stop-color="#120A2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="72" x2="714" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.52" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(1035 180) rotate(180) scale(360 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4338CA" stop-opacity="0.34"/>
+      <stop offset="0.58" stop-color="#2563EB" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#93C5FD" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#halo)"/>
+
+    <g opacity="0.56" stroke-linecap="round">
+      <path d="M767 49L846 91L925 45L1005 99L1093 61L1170 126" stroke="#38BDF8" stroke-opacity="0.44"/>
+      <path d="M730 152L823 125L905 170L1005 99L1077 187L1170 126" stroke="#818CF8" stroke-opacity="0.52"/>
+      <path d="M764 268L838 217L905 170L985 240L1077 187L1160 279" stroke="#A78BFA" stroke-opacity="0.52"/>
+      <path d="M823 125L838 217M925 45L905 170M1005 99L985 240M1093 61L1077 187" stroke="#60A5FA" stroke-opacity="0.34"/>
+      <path d="M730 152L764 268M846 91L905 170M985 240L1160 279" stroke="#C084FC" stroke-opacity="0.25"/>
+    </g>
+
+    <g filter="url(#glow)">
+      <circle cx="767" cy="49" r="4" fill="#67E8F9"/>
+      <circle cx="846" cy="91" r="6" fill="#38BDF8"/>
+      <circle cx="925" cy="45" r="4" fill="#818CF8"/>
+      <circle cx="1005" cy="99" r="7" fill="#A78BFA"/>
+      <circle cx="1093" cy="61" r="4" fill="#67E8F9"/>
+      <circle cx="1170" cy="126" r="5" fill="#60A5FA"/>
+      <circle cx="730" cy="152" r="4" fill="#38BDF8"/>
+      <circle cx="823" cy="125" r="5" fill="#67E8F9"/>
+      <circle cx="905" cy="170" r="7" fill="#818CF8"/>
+      <circle cx="1077" cy="187" r="6" fill="#C084FC"/>
+      <circle cx="764" cy="268" r="5" fill="#60A5FA"/>
+      <circle cx="838" cy="217" r="4" fill="#67E8F9"/>
+      <circle cx="985" cy="240" r="6" fill="#A78BFA"/>
+      <circle cx="1160" cy="279" r="4" fill="#38BDF8"/>
+    </g>
+
+    <rect x="62" y="56" width="146" height="30" rx="15" fill="#0F1C35" stroke="#38BDF8" stroke-opacity="0.34"/>
+    <circle cx="80" cy="71" r="4" fill="#67E8F9"/>
+    <text x="94" y="76" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="650" letter-spacing="1.8">AI RESEARCH</text>
+
+    <text x="62" y="154" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="720" letter-spacing="-2.4">Nanhe</text>
+    <rect x="62" y="177" width="546" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="62" y="222" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="500" letter-spacing="0.2">Computer Science PhD Researcher</text>
+    <text x="62" y="264" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="0.5">Reliable RAG  ·  Document Intelligence  ·  Human-centered AI</text>
+
+    <text x="62" y="318" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.4">GROUNDING / EVIDENCE / CONTROL</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="23.5" stroke="#60A5FA" stroke-opacity="0.16"/>
+</svg>
